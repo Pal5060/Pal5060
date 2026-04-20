@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pal Prajapati</h1>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🚀 Building scalable applications</h3>
 
-<!--
-**Pal5060/Pal5060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pal5060&label=Profile%20views&color=0e75b6&style=flat" alt="pal5060" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 Full Stack Development student at KodNest  
+- 🌱 Currently learning **Java & Python**  
+- 💻 Building real-world projects to improve my skills  
+- ⚡ Goal: Become a professional Full Stack Developer  
+
+---
+
+### 📫 Contact Me
+- 📧 **palprajapati5060@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/pal-prajapati" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/pal_39t" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pal5060&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pal5060&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal5060&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ☕ Support
+<p align="left">
+<a href="https://www.buymeacoffee.com/Pal5060">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" />
+</a>
+</p>
