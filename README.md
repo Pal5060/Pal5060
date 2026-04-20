@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/pal-prajapati" target="_blank">
+<a href="https://www.linkedin.com/in/pal-prajapati-968525307/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://instagram.com/pal_39t" target="_blank">
